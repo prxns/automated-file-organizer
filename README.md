@@ -1,4 +1,4 @@
-# Smart File Organizer
+# Automated File Organizer
 
 A python based automation tool that automatically organizes files into categorized folders based on their file types. This tool improves file management efficiency by reducing manual sorting and keeping directories clean and structured.
 
